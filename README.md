@@ -1,6 +1,7 @@
 # Avalonia Knowledge Base
 Documentation, resources and information about Avalonia
 
+
 ## Templates
 Install the .NET Templates to create Avalonia Apps with the command line
 1) Open a command line prompt with administrator privileges
@@ -25,6 +26,12 @@ Avalonia TemplatedControl            avalonia.templatedcontrol  [C#],F#   Deskto
 Avalonia UserControl                 avalonia.usercontrol       [C#],F#   Desktop/Xaml/Avalonia/Windows/Linux/macOS
 Avalonia Window                      avalonia.window            [C#],F#   Desktop/Xaml/Avalonia/Windows/Linux/macOS
   ```
+
+
+## Layouts
+
+<img src="/assets/images/Avalonia_Layout.png" />
+
 
 # Resources
 * [How to create your own templates for dotnet new](https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/)
