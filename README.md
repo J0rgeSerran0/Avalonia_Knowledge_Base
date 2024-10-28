@@ -1,4 +1,4 @@
-# Avalonia Knowledge Base
+# [<img src="https://avaloniaui.net/img/brand.svg" />](https://avaloniaui.net/) `Knowledge Base`
 Documentation, resources and information about Avalonia
 
 
@@ -26,6 +26,21 @@ Avalonia TemplatedControl            avalonia.templatedcontrol  [C#],F#   Deskto
 Avalonia UserControl                 avalonia.usercontrol       [C#],F#   Desktop/Xaml/Avalonia/Windows/Linux/macOS
 Avalonia Window                      avalonia.window            [C#],F#   Desktop/Xaml/Avalonia/Windows/Linux/macOS
   ```
+
+To check the template updates, use this command:
+```
+dotnet new update --check-only
+```
+
+To apply the updates, use this command:
+```
+dotnet new update
+```
+
+To create a new Avalonia project, use this command for example:
+```
+dotnet new avalonia.mvvm -o MySample -n MySample
+```
 
 
 ## Visual Studio 2022
