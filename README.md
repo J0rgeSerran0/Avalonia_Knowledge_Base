@@ -87,6 +87,10 @@ dotnet new avalonia.mvvm -o MySample -n MySample
 * [How to use ReactiveUI with Avalonia](https://docs.avaloniaui.net/docs/concepts/reactiveui/)
 
 
+## App Packaging
+* [Definitive Guide to Building and Deploying Avalonia Applications for macOS](https://avaloniaui.net/blog/the-definitive-guide-to-building-and-deploying-avalonia-applications-for-macos)
+
+
 # Resources
 * [Get Started with Avalonia](https://avaloniaui.net/gettingstarted)
 * [YouTube - Avalonia UI](https://www.youtube.com/@avaloniaui/videos)
