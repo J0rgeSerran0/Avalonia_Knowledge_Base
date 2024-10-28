@@ -35,7 +35,7 @@ Avalonia Window                      avalonia.window            [C#],F#   Deskto
 
 ## Architecture
 
-<img src="/assets/images/Avalonia_Architecture.png" width="600" height="377" />
+<img src="/assets/images/Avalonia_Architecture.png" width="800" height="502" />
 
 
 # Resources
