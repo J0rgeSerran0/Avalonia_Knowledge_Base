@@ -33,6 +33,16 @@ Avalonia Window                      avalonia.window            [C#],F#   Deskto
 <img src="/assets/images/Avalonia_Layout.png" />
 
 
+## Architecture
+
+<img src="/assets/images/Avalonia_Architecture.png" width="600" height="377" />
+
+
 # Resources
+* [Get Started with Avalonia](https://avaloniaui.net/gettingstarted)
+* [YouTube - Avalonia UI](https://www.youtube.com/@avaloniaui/videos)
+* [Avalonia Documentation](https://docs.avaloniaui.net/)
+* [Play with Avalonia (Online Compiler)](https://play.avaloniaui.net/)
+* [Avalonia XPF](https://avaloniaui.net/xpf)
 * [How to create your own templates for dotnet new](https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/)
 * [Avalonia Templates - Official Information](https://github.com/avaloniaui/avalonia-dotnet-templates)
