@@ -89,6 +89,7 @@ dotnet new avalonia.mvvm -o MySample -n MySample
 
 ## App Packaging
 * [Definitive Guide to Building and Deploying Avalonia Applications for macOS](https://avaloniaui.net/blog/the-definitive-guide-to-building-and-deploying-avalonia-applications-for-macos)
+* [Github Action Pipeline for Deploying Mac App Auto signed](https://github.com/AvaloniaUI/Avalonia/discussions/15755)
 
 
 # Resources
