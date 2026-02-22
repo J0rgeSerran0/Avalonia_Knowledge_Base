@@ -1,4 +1,4 @@
-# [<img src="https://avaloniaui.net/img/brand.svg" />](https://avaloniaui.net/) `Knowledge Base`
+# [<img src="/assets/images/avalonia_brand.png" />](https://avaloniaui.net/) `Knowledge Base`
 Documentation, resources and information about Avalonia
 
 
