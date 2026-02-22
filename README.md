@@ -76,8 +76,9 @@ dotnet new avalonia.mvvm -o MySample -n MySample
 
 ## MVVM
 * [The MVVM Pattern](https://docs.avaloniaui.net/docs/concepts/the-mvvm-pattern/)
+<img src="assets/images/mvvm_pattern.png" />
 
-<img src="https://docs.avaloniaui.net/assets/images/mvvm-f6b78a764c225a6a7555399580f78d6e.png" width="800" height="617" />
+<img src="https://docs.avaloniaui.net/assets/images/mvvm-22304837aa64469743c8084694f0238e.png" width="800" height="617" />
 
 
 ## Frameworks
